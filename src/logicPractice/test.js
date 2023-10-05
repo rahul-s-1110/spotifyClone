@@ -5,6 +5,10 @@ import colors from '../utills/color'
 const Test = () => {
 
     // It is an example where i have craeting some circle on button click and when user click on those circle color has been change for the circle (gray for select and transparent for unSelectd)
+// Pending Task
+// PaymentGateway - stripe,paypal,razorPay
+// In app purchase in react native
+// Map in react native and showing lat long to map 
 
     const [circle,setCircle] = useState([]);
     const [isselect,setIsselect] = useState(0)
