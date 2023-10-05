@@ -4,6 +4,9 @@ import colors from '../utills/color';
 
 const HeadAndDesc = () => {
     // Example of showing description of an heading untill user again close the description box without changing the actual data
+// Tommorw task -
+// Pagination,Push notification,Socil authentication,redux setup with toolkit 
+// five live problem base scenario in java script in react native
 
     const data = [
         {
