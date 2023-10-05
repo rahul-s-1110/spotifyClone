@@ -32,6 +32,13 @@ const colors = {
    green_four:'#f7ffec',
    optionBorder:"#9f9f9f",
    progressBar:"#a7a7a7",
-   createPollBg:"#e9f0fe"
+   createPollBg:"#e9f0fe",
+   whiteBorder:"#C0C0C0",
+   bg6:"040306",
+   bg7:"#131624",
+   spotify:"#1DB954",
+   red:"#FF0000",
+   blue:"#0000FF"
+   
 }
 export default colors
